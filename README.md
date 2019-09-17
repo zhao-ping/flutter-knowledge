@@ -1,7 +1,7 @@
 # flutter-knowledge
 flutter 运用的一些小知识
 
-##ios权限
+## ios权限
 位置：**/ios/Flutter/App.framework/Info.plist
 
 <!-- 相册 -->   
