@@ -4,6 +4,7 @@ flutter 运用的一些小知识
 ## ios权限
 位置：**/ios/Flutter/App.framework/Info.plist
 
+```
 <!-- 相册 -->   
 <key>NSPhotoLibraryUsageDescription</key>   
 <string>App需要您的同意,才能访问相册</string>   
@@ -43,3 +44,4 @@ flutter 运用的一些小知识
 <!-- 媒体资料库 -->   
 <key>NSAppleMusicUsageDescription</key>  
 <string>App需要您的同意,才能访问媒体资料库</string> 
+```
