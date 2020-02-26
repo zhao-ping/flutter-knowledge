@@ -48,6 +48,7 @@ flutter 运用的一些小知识
 
 ## flutter常用库
 位置：./pubspec.yaml
+
 使用常用库时，提示dart版本不符合，可以更新flutter版本`flutter upgrade` 或者强制更新 `flutter upgrade -force`
 
 ```
